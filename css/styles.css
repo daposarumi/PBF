@@ -1,0 +1,201 @@
+.about {
+    text-align: center;
+    padding: 6.5rem 0;
+    line-height: 1.5;
+}
+.abouthead {
+    color: #0DAABB;
+}
+.arrow {
+    margin-left: 20px;
+}
+body, html {
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.box1 {
+
+
+}
+.box2 {
+
+
+}
+.box3 {
+
+}
+.boy {
+    
+    border-radius: 25px;
+    width: auto;
+    height: 300px;
+    position: relative;
+    top: 180px;
+}
+.boy1 {
+   
+    width: 770px;
+    padding: 20px;
+}
+.boy2 {
+    width: 770px;
+    float: right;
+    padding: 20px;
+}
+
+.cta {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px 40px;
+
+    border: none;
+
+    position: absolute;
+    width: 270px;
+    height: 54px;
+    left: 71px;
+    top: 460px;
+
+    background: #418B79;
+
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 90px;
+    /* identical to box height, or 237% */
+
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+.f {
+    padding-right: 5px;
+}
+.foot {
+    color: white;
+}
+footer {
+    background-color: #0DABBC;
+    padding: 50px;
+    height: 18rem;
+    padding-left: 80px; 
+}
+.footerhead {
+    font-family: 'Prida01';
+}
+.girl {
+    width: auto;
+    height: 300px;
+    position: relative;
+    top: 180px;
+    left: 70px;
+    border-radius: 25px;
+    
+}
+h1 {
+    margin-top: 0;
+}
+header {
+    background-color: #EEF2F2;
+}
+.heading {
+    position: absolute;
+    width: 599px;
+    height: 200px;
+    left: 71px;
+    top: 260px;
+
+    font-family: 'Prida01';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 4.5rem;
+    line-height: 1;
+    /* or 139% */
+
+    display: flex;
+    align-items: center;
+
+    color: #121212;
+}
+.hero {
+    background-color: #EEF2F2;
+    height: 700px;
+    width: 100%;
+}
+
+.logo {
+   left: 700px;
+   top: 30px;
+   position: relative;
+   width: auto;
+   height: 40px;
+}
+.logo-bottom {
+    width: auto;
+    height: 40px;
+}
+.mail {
+    text-align: center;
+    padding: 6rem 0;
+    background-color: #D9D9D9;
+}
+.mail-container {
+    background-color:#FFFFFF;
+    margin: 0px 400px;
+    padding: 40px 0px;
+}
+.mailing {
+    width: auto;
+    padding: 10px 40px;
+}
+.names {
+    font-family: 'Raleway';
+    padding: 30px 0 0 40px;
+}
+.boy3 {
+    width: auto;
+    height: 350px;
+    position: relative;
+    top: 130px;
+    left: 30px;
+    border-radius: 25px;
+   
+}
+
+.shell {
+    position: absolute;
+    top: 120px;
+    right: 100px;
+    width: auto;
+    height: 120px;
+}
+.shell2 {
+    width: auto;
+    height: 120px;
+    position: absolute;
+    top: 200px;
+    right: 600px;
+}
+.shell3 {
+    width: auto;
+    height: 120px;
+    position: absolute;
+    top: 480px;
+    right: 300px;
+}
+.signup {
+    border-radius: 0;
+    margin: 0 5px 5px;
+}
