@@ -16,7 +16,7 @@ const addButtonEl = document.getElementById("add-button")
 
 
 addButtonEl.addEventListener("click", function() {
-    
+
     changeButtonText()
 
     let inputValue = inputFieldEl.value
@@ -35,5 +35,5 @@ function clearInputFieldEl() {
 }
 
 function changeButtonText() {
-    addButtonEl.textContent = 'Signing Up';
+    addButtonEl.textContent = 'Signing Up...';
 }
