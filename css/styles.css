@@ -53,6 +53,10 @@ body, html {
     color: #FFFFFF;
 
 }
+
+.cta:hover {
+    
+}
  .socials {
     padding-right: 5px;
 }
