@@ -2,10 +2,7 @@
     text-align: center;
     padding: 6.5rem 0;
     line-height: 1.5;
-}
-.abouthead {
-    color: #0DAABB;
-}
+} 
 .arrow {
     margin-left: 20px;
 }
@@ -43,48 +40,30 @@ body, html {
     justify-content: left;
     align-items: center;
     padding: 0px 40px;
-
     border: none;
-
     position: absolute;
     width: 270px;
     height: 54px;
     left: 71px;
     top: 460px;
-
     background: #418B79;
-    font-style: normal;
     font-weight: 200;
     font-size: 20px;
     line-height: 90px;
-    /* identical to box height, or 237% */
-
-
     color: #FFFFFF;
 
-
-    /* Inside auto layout */
-
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-
 }
-.f {
+ .socials {
     padding-right: 5px;
 }
-.foot {
-    color: white;
-}
 footer {
+    color: white;
     background-color: #0DABBC;
     padding: 50px;
     height: 18rem;
     padding-left: 80px; 
 }
-.footerhead {
-    font-family: 'Prida01';
-}
+
 .girl {
     width: auto;
     height: 300px;
@@ -107,14 +86,11 @@ header {
     height: 200px;
     left: 71px;
     top: 260px;
-    font-style: normal;
     font-weight: 900;
     font-size: 4.5rem;
     line-height: 1;
     display: flex;
-    align-items: center;
 
-    color: #121212;
 }
 .hero {
     background-color: #EEF2F2;
@@ -129,7 +105,7 @@ header {
    width: auto;
    height: 40px;
 }
-.logo-bottom {
+.bottom-logo {
     width: auto;
     height: 40px;
 }
@@ -147,10 +123,7 @@ header {
     width: auto;
     padding: 10px 40px;
 }
-.names {
-    font-family: 'Raleway';
-    padding: 30px 0 0 40px;
-}
+
 .boy3 {
     width: auto;
     height: 350px;
@@ -159,6 +132,11 @@ header {
     left: 30px;
     border-radius: 25px;
    
+}
+
+.signup {
+    border-radius: 0;
+    margin: 0 5px 5px;
 }
 
 /* .fa-circle-notch {
@@ -194,7 +172,4 @@ header {
     top: 480px;
     right: 300px;
 }
-.signup {
-    border-radius: 0;
-    margin: 0 5px 5px;
-} */
+ */
