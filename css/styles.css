@@ -10,9 +10,11 @@
     margin-left: 20px;
 }
 body, html {
+    font-family: 'Quicksand', sans-serif;
     margin: 0;
-    width: 100%;
     overflow-x: hidden;
+    width: 100%;
+   
 }
 
 
@@ -51,8 +53,6 @@ body, html {
     top: 460px;
 
     background: #418B79;
-
-    font-family: 'montserrat';
     font-style: normal;
     font-weight: 200;
     font-size: 20px;
@@ -96,6 +96,7 @@ footer {
 }
 h1 {
     margin-top: 0;
+    font-family: 'Prida01', serif;
 }
 header {
     background-color: #EEF2F2;
@@ -106,14 +107,10 @@ header {
     height: 200px;
     left: 71px;
     top: 260px;
-
-    font-family: 'Prida01';
     font-style: normal;
     font-weight: 900;
     font-size: 4.5rem;
     line-height: 1;
-    /* or 139% */
-
     display: flex;
     align-items: center;
 
@@ -164,6 +161,18 @@ header {
    
 }
 
+/* .fa-circle-notch {
+    animation: animate 1s ease infinite;
+}
+@keyframes animate {
+    0% {
+        transform: rotate(0turn);
+    }
+    100% {
+        transform: rotate(1turn);
+    }
+}
+
 .shell {
     position: absolute;
     top: 120px;
@@ -188,4 +197,4 @@ header {
 .signup {
     border-radius: 0;
     margin: 0 5px 5px;
-}
+} */

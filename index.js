@@ -13,9 +13,24 @@ const mailingListInDB = ref(database, "mailingList")
 
 const inputFieldEl = document.getElementById("input-field")
 const addButtonEl = document.getElementById("add-button")
+const spinner = document.querySelector(".fa-circle-notch")
+const icon = document.querySelector("i")
+const btnText = document.querySelector(".btn-text")
 
 
 addButtonEl.addEventListener("click", function() {
+
+    addButtonEl.style.cursor = "wait";
+
+    btnText.textContent = ''
+
+    btnText.style.margin = 0
+
+    icon.classList.replace("fa-check", "fa-circle-notch")
+
+    setTimeout(() => {
+        btn.style.pointerEve
+    }, 4000);
 
     changeButtonText()
 
@@ -25,6 +40,7 @@ addButtonEl.addEventListener("click", function() {
 
     clearInputFieldEl()
     
+
     
 })
 
@@ -35,5 +51,5 @@ function clearInputFieldEl() {
 }
 
 function changeButtonText() {
-    addButtonEl.textContent = 'Signing Up...';
+    addButtonEl.textContent = '';
 }
