@@ -47,7 +47,7 @@ body, html {
     left: 71px;
     top: 460px;
     background: #418B79;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 20px;
     line-height: 90px;
     color: #FFFFFF;
@@ -94,7 +94,7 @@ header {
     font-size: 4.5rem;
     line-height: 1;
     display: flex;
-
+    color: #000;
 }
 .hero {
     background-color: #EEF2F2;
