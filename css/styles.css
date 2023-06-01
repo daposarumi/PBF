@@ -179,8 +179,9 @@ header {
     right: 300px;
 }
  */
- @media (max-width: 1200px) {
+ @media (min-width: 500px) and (max-width: 1200px) {
     .heroimage {
         display: none;
+        
     }
  }
