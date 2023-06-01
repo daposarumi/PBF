@@ -103,11 +103,13 @@ header {
 }
 
 .logo {
-   left: 700px;
-   top: 30px;
-   position: relative;
    width: auto;
    height: 40px;
+   margin-top: 30px;
+}
+.logocontainer {
+    margin: 0 auto;
+    text-align: center;
 }
 .bottom-logo {
     width: auto;
