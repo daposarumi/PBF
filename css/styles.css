@@ -180,7 +180,7 @@ header {
 }
  */
  @media (max-width: 1028px) {
-    .hero {
+    .heroimage {
         display: none;
     }
  }
