@@ -179,7 +179,7 @@ header {
     right: 300px;
 }
  */
- @media (max-width: 1028px) {
+ @media (max-width: 1200px) {
     .heroimage {
         display: none;
     }
