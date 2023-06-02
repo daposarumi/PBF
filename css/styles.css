@@ -35,24 +35,16 @@ body, html {
 }
 
 .cta {
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-    align-items: center;
-    padding: 0px 40px;
-    border: none;
-    position: absolute;
-    width: 270px;
-    height: 54px;
-    left: 71px;
-    top: 460px;
+    
+    margin-left: 4rem;
+    margin-top: 1.5rem;
     background: #418B79;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 90px;
+    border: none;
     border-radius: 22px;
-    color: #FFFFFF;
-
+    width: 270px;
+    height: 50px;
+    
+   
 }
 
 .cta:hover {
