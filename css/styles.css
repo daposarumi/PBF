@@ -37,7 +37,7 @@ body, html {
 .cta {
     
     margin-left: 4rem;
-    margin-top: 3rem;
+    margin-top: 2.5rem;
     background: #418B79;
     border: none;
     border-radius: 22px;
@@ -87,7 +87,7 @@ header {
 }
 .hero {
     background-color: #EEF2F2;
-    height: 500px;
+    height: 600px;
     width: 100%;
 }
 .heroimage {
